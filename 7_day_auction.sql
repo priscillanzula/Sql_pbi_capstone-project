@@ -1,0 +1,1 @@
+SELECT * FROM cartier_watches.`cartier+7-day+auctions`;

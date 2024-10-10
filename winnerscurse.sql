@@ -1,0 +1,1 @@
+SELECT * FROM cartier_watches.`cartier+for+winnerscurse`;
